@@ -1,38 +1,3 @@
-
-  <title>Data Deletion – Developer Policy</title>
-  <style>
-    body {
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 18px;
-      line-height: 1.6;
-      color: #111;
-    }
-    h1, h2 {
-      line-height: 1.25;
-    }
-    .card {
-      background: #f6f7fb;
-      border: 1px solid #e6e8f0;
-      border-radius: 14px;
-      padding: 18px;
-      margin: 18px 0;
-    }
-    .muted {
-      color: #555;
-    }
-    a {
-      color: #0b57d0;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-
 <h1>Data Deletion Request</h1>
 
 <p class="muted">
