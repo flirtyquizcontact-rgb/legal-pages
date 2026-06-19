@@ -15,6 +15,7 @@ This page applies to all mobile applications published by QuizFans Studio, inclu
 * Couples Dare: Relationship Quiz
 * Funny Quiz: Couples & Party
 * Mahjong Solitaire Match
+* DirectBeam: File Transfer
 
 ## Summary
 
